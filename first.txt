@@ -1,1 +1,2 @@
 Adding some lines of code for my second commit.
+This line is added when this file is already in the staging area but not yet committed.
