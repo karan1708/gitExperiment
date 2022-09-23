@@ -2,3 +2,4 @@ Adding some lines of code for my second commit.
 This line is added when this file is already in the staging area but not yet committed.
 This line is added to check git diff command.
 Checking git diff.
+hi my name is karan.
